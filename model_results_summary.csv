@@ -1,0 +1,4 @@
+Model,Accuracy
+RandomForest,0.25333333333333335
+SVM,0.26666666666666666
+NeuralNet,0.26
