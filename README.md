@@ -1,4 +1,4 @@
-🧫 PathoNet — AI-Driven Infectious Pathogen Identifier
+🧫 PathoNet — AI-Driven Infectious Pathogen Identifier.
 🦠 “Decode the unseen — identify pathogens from sequence to symptom.”
 📘 Overview
 
