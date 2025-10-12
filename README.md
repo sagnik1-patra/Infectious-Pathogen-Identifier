@@ -1,6 +1,6 @@
 🧫 PathoNet — AI-Driven Infectious Pathogen Identifier.
 🦠 “Decode the unseen — identify pathogens from sequence to symptom.”
-📘 Overview
+📘 Overview,
 
 PathoNet is an AI system designed to identify the causative pathogen type — Bacterial, Viral, Fungal, or Parasitic — using multi-modal data such as DNA sequences, blood biomarkers, and microscopic features.
 
